@@ -17,3 +17,7 @@ E:\程序及项目\WP8.0\ParseJSONForWP8.0\ParseJSONForWP8.0\obj\Debug\ParseJSON
 E:\程序及项目\WP8.0\ParseJSONForWP8.0\ParseJSONForWP8.0\obj\Debug\ParseJSONForWP8.0.dll
 E:\程序及项目\WP8.0\ParseJSONForWP8.0\ParseJSONForWP8.0\obj\Debug\ParseJSONForWP8.0.pdb
 E:\程序及项目\WP8.0\ParseJSONForWP8.0\ParseJSONForWP8.0\obj\Debug\XapCacheFile.xml
+E:\程序及项目\WP8.0\ParseJSONForWP8.0\ParseJSONForWP8.0\Bin\Debug\Newtonsoft.Json.dll
+E:\程序及项目\WP8.0\ParseJSONForWP8.0\ParseJSONForWP8.0\Bin\Debug\Newtonsoft.Json.xml
+E:\程序及项目\WP8.0\ParseJSONForWP8.0\ParseJSONForWP8.0\obj\Debug\ParseJSONForWP8.0.csprojResolveAssemblyReference.cache
+E:\程序及项目\WP8.0\ParseJSONForWP8.0\ParseJSONForWP8.0\obj\Debug\Views\FlightListV.g.cs
