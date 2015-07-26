@@ -7,7 +7,7 @@ using System.Windows.Controls;
 using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
-using ParseJSONForWP8._0.Resources;
+
 
 namespace ParseJSONForWP8._0
 {
@@ -20,6 +20,12 @@ namespace ParseJSONForWP8._0
 
             // 用于本地化 ApplicationBar 的示例代码
             //BuildLocalizedApplicationBar();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            string searchKey=searchKey_TextBox.Text;
+            this.NavigationService.Navigate(new Uri("/Views/FlightListV.xaml?searchKey=" + searchKey, UriKind.Relative));
         }
 
         // 用于生成本地化 ApplicationBar 的示例代码
